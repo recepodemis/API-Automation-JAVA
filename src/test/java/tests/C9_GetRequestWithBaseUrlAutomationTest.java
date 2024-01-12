@@ -21,5 +21,4 @@ public class C9_GetRequestWithBaseUrlAutomationTest extends BaseUrlJsonPlaceHold
                 .body("id", Matchers.hasSize(100));
 
     }
-
 }
